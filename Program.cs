@@ -13,7 +13,7 @@ namespace StaticExercise1
 
             Console.WriteLine("These are the conversions!");
 
-            var celsius = TempConverter.FahrenheitToCelsius(75);
+            var celsius = TempConverter.FahrenheitToCelsius(68);
 
             Console.WriteLine($"What is your Fahrenheit temperature?\n This coverts to {celsius} degrees celsius!");
 
